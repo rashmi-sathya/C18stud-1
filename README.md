@@ -1,1 +1,1 @@
-# C18stud-1
+# C10-project-template
