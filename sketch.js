@@ -8,6 +8,3 @@ function transform() {
 }
 
 // Log the global and local variable
-console.log(species);
-transform();
-console.log(species);
